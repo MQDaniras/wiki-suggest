@@ -14,6 +14,9 @@ The recommendation engine consists of two equal parts that together form a recom
     - Notebooks generally contain exploratory analysis and plotting
 
 2. **Articles other people like you have edited**
+    All code related to this is in the `graph/` directory
+    - Structuring of the social graph and it's class methods can be found in 'graph_structure.py' which is the backbone of the social graphs
+    - Most of the files are utility functions for the graph structure used for faster, more memory efficient batchjobs
     - 
 
 
